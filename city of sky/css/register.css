@@ -1,0 +1,80 @@
+.bg_img{
+	background-image: url(../img/skypixel-auth-bg.def7b558.jpg);
+	background-size: cover;
+	background-repeat:no-repeat ;
+	background-position: 50%;
+}
+.bg_height{
+	height: 780px;
+}
+.section_right{
+	width: 56%;
+	margin-left: 8%;
+}
+.right_text_color{
+	color: #1088F2;
+}
+.right_text_border{
+	border-bottom: 2px solid #1088F2;
+}
+.font1_style{
+	color: #4b4b4b;
+	font-size: 0.6rem;
+	font-weight: 600;
+	margin-bottom: 0.5rem;
+}
+.font2_style{
+	font-size: 0.6rem;
+	color: #333333;
+	cursor: pointer;
+}
+.w-70{
+	width: 70% !important;
+}
+.right_button_color{
+	background-color: #70b8f7;
+}
+.right_button1_style{
+	width: 40%;
+	border: 1px solid #dfdfdf;
+	border-radius: 0.2rem;
+	font-size: 0.6rem;
+	color: #FFFFFF;
+	font-weight: 600;
+}
+.right_button1_style:focus{
+	outline: 0;
+}
+.right_bottom_text{
+	color: #707473;
+	font-size: 0.6rem;
+}
+.right_button2_style{
+	margin-top: 1.6rem;
+	border: 0;
+	color: #FFFFFF;
+	font-weight: 600;
+	border-radius: 0.2rem;
+	font-size: 0.6rem;
+	padding: 0.8rem 0;
+}
+.right_button2_style:focus{
+	outline: 0;
+}
+.right_img{
+	cursor: pointer;
+}
+.right_top_a1:hover{
+	color: #1088F2;
+	text-decoration: none;
+}
+.right_top_a2:hover{
+	text-decoration: none;
+}
+.right_bottom_a:hover{
+	color: #1088F2;
+}
+.form-control:focus {
+  border-color: #4B4B4B !important;
+  box-shadow: 0 0 0 0 #4B4B4B !important;
+}
